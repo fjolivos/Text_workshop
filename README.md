@@ -4,7 +4,7 @@ Este workshop tiene como objectivo introducir métodos supervisados y no supervi
 Como método supervisado, se explica cómo utilizar análisis basados en diccionarios. Para eso, aplicamos análisis de sentimientos en R.
 Como método no supervisado, se explica cómo utilizar modelamiento de tópicos. 
 
-Para esto, utilizaremos datos de www.reclamos.cl utilizados en el siguiente artículo:
+Para esto, utilizaremos datos de www.reclamos.cl que fueron análisados en el siguiente artículo:
 
 - Olivos, F., Saavedra, P., & Dammert, L. (2022). Citizen complaints as an accountability mechanism: Uncovering patterns using topic
 modeling. Journal of Research in Crime and Delinquency.
