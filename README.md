@@ -1,4 +1,4 @@
-# Workshop en análisis de texto computational
+# Workshop en análisis computational de texto
 
 Este workshop tiene como objectivo introducir métodos supervisados y no supervisados de análisis computacional de texto.
 Como método supervisado se explica cómo utilizar análisis basados en diccionarios. Para eso, aplicamos análisis de sentimientos en R.
